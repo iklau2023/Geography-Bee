@@ -38,7 +38,7 @@ if q == 'peru':
   print('Correct')
 else:
   print('Wrong')
-q= input('Which of these states is in the Midwest region of the USA').lower()
+q= input('Which of these states is in the Midwest region of the USA(Idaho, Iowa, Georgia, Rhode Island)').lower()
 if q == 'iowa':
   print('Correct')
 else:
@@ -83,53 +83,53 @@ if q == 'timbuktu':
   print('Correct')
 else:
   print('Wrong')
-q= input('Which of these countries is considered to be part of Scandinavia').lower()
+q= input('Which of these countries is considered to be part of Scandinavia(Poland, Sweden, Ireland, Portugal)').lower()
 if q == 'sweden':
   print('Correct')
 else:
   print('Wrong')
-q= input('Which of these Us cities could a boat that only travels ').lower()
-if q == '':
+q= input('Which of these US cities could a boat that only travels on the Mississippi River could not dock at(St. Louis, New Orleans, Memphis, Atlanta)').lower()
+if q == 'atlanta':
   print('Correct')
 else:
   print('Wrong')
-q= input('').lower()
-if q == '':
+q= input('Which of these countries has a land border with exactly one other country(Mexico, USA, Canada, Bahamas)').lower()
+if q == 'canada':
   print('Correct')
 else:
   print('Wrong')
-q= input('').lower()
-if q == '':
+q= input('The Everglades is a major ecosystem in the southern part of which US state').lower()
+if q == 'florida':
   print('Correct')
 else:
   print('Wrong')
-q= input('').lower()
-if q == '':
+q= input('in which of the following countries would you find the states of Uttar Pradesh and Karnataka(Pakistan, Japan, Bangladesh, India)').lower()
+if q == 'india':
   print('Correct')
 else:
   print('Wrong')
-q= input('').lower()
-if q == '':
+q= input('Which of these African rivers flows into the Mediterranean Sea(Congo, Nile, Niger, Zambezi)').lower()
+if q == 'nile':
   print('Correct')
 else:
   print('Wrong')
-q= input('').lower()
-if q == '':
+q= input('Which of these Asian cities is the capital of a landlocked country(Tokyo, Beijing, Manila, Ulan Bator)').lower()
+if q == 'ulan bator':
   print('Correct')
 else:
   print('Wrong')
-q= input('').lower()
-if q == '':
+q= input('The most commonly followed religion in Brazil, Mexico and Argentina is').lower()
+if q == 'christianity':
   print('Correct')
 else:
   print('Wrong')
-q= input('').lower()
-if q == '':
+q= input(''In which state can you hike the KLong Trail from the Canadian border to its border with Massachusetts).lower()
+if q == 'vermont':
   print('Correct')
 else:
   print('Wrong')
-q= input('').lower()
-if q == '':
+q= input('UC Berkeley, UCLA, and UC Santa Cruz are all part of which states public university system').lower()
+if q == 'california':
   print('Correct')
 else:
   print('Wrong')
